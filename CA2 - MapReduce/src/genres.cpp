@@ -7,7 +7,7 @@
 #include <fcntl.h>
 #include <sys/stat.h>
 #include <string>
-#include "defs.h"
+#include "include/defs.hpp"
 #include <strings.h>
 
 void error(const std::string &errorMsg)

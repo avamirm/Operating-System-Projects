@@ -8,7 +8,7 @@
 #include <sys/stat.h>
 #include <string>
 #include <map>
-#include "defs.h"
+#include "include/defs.hpp"
 
 void error(const std::string &errorMsg)
 {
